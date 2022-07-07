@@ -8,7 +8,7 @@ Stolas, est un démon issu des croyances de la goétie, science occulte de l'inv
 
 # Le bug tracker 
 Ici tu trouveras le bug tracker de Stolas à chaque fois qu'il fait des siennes n'hésite pas à nous les rapporter ici, notre équipe s'en chargera ! <br>
-> “	Tu sais ce qui se passe quand je me sens seul, Blitzy...	„
+> ❝	Tu sais ce qui se passe quand je me sens seul, Blitzy...	❞
 > > ~ Stolas flirtant Blitzo	
 
 
